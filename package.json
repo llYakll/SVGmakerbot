@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.15",
+    "node": "^21.7.1"
+  }
+}
